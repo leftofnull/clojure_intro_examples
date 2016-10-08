@@ -3,7 +3,9 @@
             [clojure-intro-examples.decrementor :as d]
             [clojure-intro-examples.simple-functions :as sf]
             [clojure-intro-examples.macros :as m]
-            [clojure-intro-examples.records :as r])
+            [clojure-intro-examples.records :as r]
+            [clojure-intro-examples.async :as a]
+            [clojure-intro-examples.peg-game.core :as peg])
   (:gen-class))
 
 (defn -main
@@ -45,4 +47,8 @@
   ;   (if (<= n 0)
   ;     (d/decrement-count)
   ;     (recur (d/dec-counter n))))
+  ; (a/soda-machine-consumer))
+  ; (a/future-example))
+  ; (a/promise-example))
+  ; (peg/-main))
   (println "Uncomment one of the functions to see it in action"))

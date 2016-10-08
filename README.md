@@ -11,7 +11,7 @@ Uncomment any function in `core/-main` to see it in action.
 - Reference at [Clojure Docs](https://clojuredocs.org/)
 - Browse jars at [Clojars](https://clojars.org/)
 - Learn at [Clojure.org](http://clojure.org/)
-- Get started and find jobs and open source projects at [Clojure for the Brave and True](http://www.braveclojure.com/)
+- Get started and find jobs and open source projects at [Clojure for the Brave and True](http://www.braveclojure.com/) by [Daniel Higginbotham](https://twitter.com/nonrecursive)
 - Interact with the community on [Slack](https://slack.com) on the `#clojurians` channel
 
 ## About Me
